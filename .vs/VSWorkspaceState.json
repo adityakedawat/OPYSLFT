@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Health_Reporter",
+    "\\Health_Reporter\\health_report",
+    "\\Health_Reporter\\Health_Reporter",
+    "\\Health_Reporter\\health_report\\templates"
+  ],
+  "SelectedNode": "\\Health_Reporter\\health_report\\views.py",
+  "PreviewInSolutionExplorer": false
+}
